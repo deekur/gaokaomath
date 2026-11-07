@@ -234,10 +234,6 @@
   - Zhejiang's 1977 preliminary paper (see Section 6.4)
   - It is uncertain whether other regions independently set papers in 1977
 
-  **Spring Gaokao**
-  - 2003 Anhui liberal-arts spring paper (Inner Mongolia may have used the same paper)
-  - 2002 Inner Mongolia spring paper (may have been the same as Beijing's)
-
   **3. Alternative Papers**
 
   This repository does not include **alternative papers**, **whether or not they were ever used**. Note that the 2003 alternative paper was not used, and that the papers for the postponed-examination regions in 45 districts and cities of Sichuan in 2008 were not alternative papers. Alternative papers are also called **backup papers** and **付题** (“付” is the Second Simplified Chinese form of “副”).
